@@ -1,0 +1,49 @@
+Package: libmbedtls
+Version: 2.4.2-1
+Depends: libc
+Source: feeds/shadowsocks/base/mbedtls
+License: GPL-2.0+
+Section: libs
+Architecture: ramips_24kec
+Installed-Size: 155605
+Filename: libmbedtls_2.4.2-1_ramips_24kec.ipk
+Size: 156106
+MD5Sum: d6aa97de85d91b734a01495a29a5aec2
+SHA256sum: 8c4d5b73e849bad71ce05596af83747e9a18aa74e3913541b7d01d2f697b27c1
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains the mbedtls library.
+
+Package: libsodium
+Version: 1.0.12-1
+Depends: libc, libpthread
+Source: feeds/shadowsocks/packages/libsodium
+License: ISC
+Section: libs
+Maintainer: Damiano Renfer <damiano.renfer@gmail.com>
+Architecture: ramips_24kec
+Installed-Size: 116109
+Filename: libsodium_1.0.12-1_ramips_24kec.ipk
+Size: 117153
+MD5Sum: c76c5b78653beb5b7c59218eb4e90f51
+SHA256sum: c0056aa1003ac522a89c3f648c2479299a5b181cf9e4a44376466a0696164de0
+Description:  NaCl (pronounced "salt") is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.
+ NaCl's goal is to provide all of the core operations needed to build higher-level cryptographic tools.
+ Sodium is a portable, cross-compilable, installable, packageable fork of NaCl (based on the latest released upstream version nacl-20110221), with a compatible API.
+ The design choices, particularly in regard to the Curve25519 Diffie-Hellman function, emphasize security (whereas NIST curves emphasize "performance" at the cost of security), and "magic constants" in NaCl/Sodium have clear rationales.
+ The same cannot be said of NIST curves, where the specific origins of certain constants are not described by the standards.
+ And despite the emphasis on higher security, primitives are faster across-the-board than most implementations of the NIST standards.
+
+Package: libudns
+Version: 0.4-1
+Depends: libc
+Source: feeds/shadowsocks/base/libudns
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 17933
+Filename: libudns_0.4-1_ramips_24kec.ipk
+Size: 18659
+MD5Sum: c9bc9a8b3882c415ea55f3ca1026718d
+SHA256sum: 1a5789a35f7a23928a73f9ad3c47382be0efa8d9758b077e2a7afce3aad0756b
+Description:  The DNS library, udns, implements thread-safe stub DNS resolver functionality, which may be used both traditional, syncronous way and asyncronously, with application-supplied event loop.
+

@@ -1,0 +1,3457 @@
+Package: baresip-mod-alsa
+Version: 0.4.14-1
+Depends: libc, baresip, alsa-lib
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 3362
+Filename: baresip-mod-alsa_0.4.14-1_ramips_24kec.ipk
+Size: 4112
+MD5Sum: 04e925b17f43342285f882bf8865bd20
+SHA256sum: 31b12a81d3a8b9bdfdfd3b3fdfd674bf2a7ab68d44d4e351b5e4f6d88f5a25df
+Description:  baresip ALSA audio driver module
+
+Package: baresip-mod-avcodec
+Version: 0.4.14-1
+Depends: libc, baresip, libffmpeg-full
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7389
+Filename: baresip-mod-avcodec_0.4.14-1_ramips_24kec.ipk
+Size: 8203
+MD5Sum: 0276b0c743ff24bb8836911b5368edf4
+SHA256sum: 18d7b123dcf19b076d0388ada18e0537567ae1cdb359d927e4e1a3ff1b9d366b
+Description:  baresip FFmpeg video codecs module
+
+Package: baresip-mod-avformat
+Version: 0.4.14-1
+Depends: libc, baresip, libffmpeg-full
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 3252
+Filename: baresip-mod-avformat_0.4.14-1_ramips_24kec.ipk
+Size: 4007
+MD5Sum: 44b2d3939acc58ef3c61347793b143f3
+SHA256sum: 479d472a07c607d054b750fb1a9f65a3f3c340136fc161f01dd1f0c59be9f008
+Description:  baresip FFmpeg video source module
+
+Package: baresip-mod-cons
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2517
+Filename: baresip-mod-cons_0.4.14-1_ramips_24kec.ipk
+Size: 3282
+MD5Sum: bc72af89785a10d7c96190a76e0cc4de
+SHA256sum: a37eceffb366b1da63b366a6e4dc06175a48e4ddec9e5fdf8023cd582fe2227a
+Description:  baresip console UI module
+
+Package: baresip-mod-evdev
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6856
+Filename: baresip-mod-evdev_0.4.14-1_ramips_24kec.ipk
+Size: 7594
+MD5Sum: e2e6528828c7690cdea8bc687956aa26
+SHA256sum: 20ac3ef65e172d21e2d461981ba3eece6999d2011afaedc1f3d1bac651b5cccf
+Description:  baresip input event device UI module
+
+Package: baresip-mod-g711
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 1692
+Filename: baresip-mod-g711_0.4.14-1_ramips_24kec.ipk
+Size: 2459
+MD5Sum: 69e95312f63f13fdadb496e7540c2534
+SHA256sum: 4a22b910e0cf9db413df4ff652343ab861f8e6ea5126bb0886086e733ddae3dd
+Description:  baresip G.711 audio codec module
+
+Package: baresip-mod-g722
+Version: 0.4.14-1
+Depends: libc, baresip, libspandsp
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 1692
+Filename: baresip-mod-g722_0.4.14-1_ramips_24kec.ipk
+Size: 2464
+MD5Sum: cca1c69beedb63faf866d689089446d6
+SHA256sum: a734b30ab8769b8cc4c870cdf32f339f69a1cdbca8fc2b01ecf69bf914236a29
+Description:  baresip G.722 audio codec module
+
+Package: baresip-mod-g726
+Version: 0.4.14-1
+Depends: libc, baresip, libspandsp
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 1818
+Filename: baresip-mod-g726_0.4.14-1_ramips_24kec.ipk
+Size: 2602
+MD5Sum: 512d95e1f563434dd3875733ee1329b3
+SHA256sum: 16fc11c790ef5ca9be5343bd568d84888d8073b5aeb0856158f2897d1599b82f
+Description:  baresip G.726 audio codec module
+
+Package: baresip-mod-httpd
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2180
+Filename: baresip-mod-httpd_0.4.14-1_ramips_24kec.ipk
+Size: 2953
+MD5Sum: f466a813543e03b9342d3c944cbaf9f8
+SHA256sum: 9cafdfc3062d310a96309dba1d7464cbabccbf40862b748dd10f0fd909d70dca
+Description:  baresip Webserver UI module module
+
+Package: baresip-mod-oss
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2677
+Filename: baresip-mod-oss_0.4.14-1_ramips_24kec.ipk
+Size: 3455
+MD5Sum: 369c0d277572c0fbaecb4b1982a4fbdd
+SHA256sum: 6908b26ad489861c249bf8c74a1b24ccdcc01d900f526e582b52143455106c61
+Description:  baresip OSS audio driver module
+
+Package: baresip-mod-speex-aec
+Version: 0.4.14-1
+Depends: libc, baresip, libspeex
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2187
+Filename: baresip-mod-speex-aec_0.4.14-1_ramips_24kec.ipk
+Size: 2982
+MD5Sum: 652122a10848f3af5beb319970f61a9b
+SHA256sum: 6d525a5405171f2304dd1f0766cc93df034fc0164f1dd6485fb4f1b86923e6dc
+Description:  baresip Speex Acoustic Echo Cancellation module
+
+Package: baresip-mod-speex-pp
+Version: 0.4.14-1
+Depends: libc, baresip, libspeex
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 1926
+Filename: baresip-mod-speex-pp_0.4.14-1_ramips_24kec.ipk
+Size: 2706
+MD5Sum: cef040ff9f0a696f1f113acace16a40b
+SHA256sum: 2c32cd144ac17a7a2dfbf7347fb7fb392bf8a627ef72a69ab3468ee9de0086e8
+Description:  baresip Speex Pre-processor module
+
+Package: baresip-mod-speex
+Version: 0.4.14-1
+Depends: libc, baresip, libspeex
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 4061
+Filename: baresip-mod-speex_0.4.14-1_ramips_24kec.ipk
+Size: 4799
+MD5Sum: 7f5fe64ed35297a4391558ea6a27cf91
+SHA256sum: babbd6ae0bdc464afa42e5d89e038822c30a6ee3703cb3bd45e44e8678e5b56f
+Description:  baresip Speex audio codec module
+
+Package: baresip-mod-stdio
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2114
+Filename: baresip-mod-stdio_0.4.14-1_ramips_24kec.ipk
+Size: 2888
+MD5Sum: 483a2c9f3ab9ebd9e0537c4b6ea7ed8e
+SHA256sum: 657f9febbf90688d68fb05aef2ddaeaef20b81fc315d447faec1d08b6f727019
+Description:  baresip standard I/O UI module
+
+Package: baresip-mod-v4l2
+Version: 0.4.14-1
+Depends: libc, baresip, libv4l
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 3745
+Filename: baresip-mod-v4l2_0.4.14-1_ramips_24kec.ipk
+Size: 4491
+MD5Sum: 0b639f2d394cfbdc436682ccd1494d62
+SHA256sum: 65da9ac4691dcba5bb34b124a2e718197278b5aabcd9ad5f5ade9c13a32a31c3
+Description:  baresip Video4Linux2 video source module
+
+Package: baresip-mod-v4l
+Version: 0.4.14-1
+Depends: libc, baresip, libv4l
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2507
+Filename: baresip-mod-v4l_0.4.14-1_ramips_24kec.ipk
+Size: 3295
+MD5Sum: 7410addc11c58427b3f04fe8361aa1b8
+SHA256sum: efa81a47d9d9380c8ab7b2680f50dd07e85bcfa47a9305d6c66e26a343b395d6
+Description:  baresip Video4Linux video source module
+
+Package: baresip
+Version: 0.4.14-1
+Depends: libc, libre, librem, libpthread
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 209864
+Filename: baresip_0.4.14-1_ramips_24kec.ipk
+Size: 210591
+MD5Sum: 2ee6afafda22467d84ae8d92f005da50
+SHA256sum: 6b43d196035a628195756bd896eefb59e5d7c07bafcc31a07d6fcd0b0f5fb589
+Description:  Portable and modular SIP User-Agent with A/V support
+
+Package: bcg729
+Version: 1.0.0-1
+Depends: libc
+Source: feeds/telephony/libs/bcg729
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Alex Samorukov <samm@os2.kiev.ua>
+Architecture: ramips_24kec
+Installed-Size: 22011
+Filename: bcg729_1.0.0-1_ramips_24kec.ipk
+Size: 22850
+MD5Sum: f9d76af51126f292fe92ae3ca773d0c6
+SHA256sum: 1ded6974f77582bf76377fad001e1ba38d97b171874ee12dba8a3699b7b89022
+Description:  Bcg729 is a software G729A encoder and decoder library written in C, developed
+ by Belledonne Communications, the company supporting the Linphone project.
+ It was written from scratch and is NOT a derivative work of ITU reference
+ source code in any kind.
+
+Package: dahdi-cfg
+Version: 2.10.2-1
+Depends: libc, kmod-dahdi, libpthread
+Source: feeds/telephony/libs/dahdi-tools
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ramips_24kec
+Installed-Size: 34735
+Filename: dahdi-cfg_2.10.2-1_ramips_24kec.ipk
+Size: 35383
+MD5Sum: cd1edacc917b6e1947577e7da451ddca
+SHA256sum: 67b2a4c1d8c5f1837bcc793a8384368e3b4bb266e1de35c8815c774d71b72d9c
+Description:  DAHDI tools dahdi_cfg, dahdi_scan and fxotune
+
+Package: dahdi-monitor
+Version: 2.10.2-1
+Depends: libc, kmod-dahdi
+Source: feeds/telephony/libs/dahdi-tools
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ramips_24kec
+Installed-Size: 10264
+Filename: dahdi-monitor_2.10.2-1_ramips_24kec.ipk
+Size: 11068
+MD5Sum: 3fc7c99b604ae7a2160ba7de01e8be61
+SHA256sum: 37b520fe95d2071a2518835baccea3aa6ef302461b853a0194c02745968385bd
+Description:  DAHDI tools dahdi_monitor, dahdi_speed and dahdi_test
+
+Package: dahdi-tools-libtonezone
+Version: 2.10.2-1
+Depends: libc, kmod-dahdi
+Source: feeds/telephony/libs/dahdi-tools
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ramips_24kec
+Installed-Size: 9891
+Filename: dahdi-tools-libtonezone_2.10.2-1_ramips_24kec.ipk
+Size: 10512
+MD5Sum: 0f56947f9addc6e622f4bb6b192847f3
+SHA256sum: 9f25cfffc3b4959d69bf6d8c7f165dde31418c72fdec840050fa469b69dcb22f
+Description:  DAHDI tonezone library
+
+Package: kamailio3-mod-acc
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 20467
+Filename: kamailio3-mod-acc_3.3.7-9_ramips_24kec.ipk
+Size: 21240
+MD5Sum: 465d451a5d116773785791b48bf32c27
+SHA256sum: 3b64becf9e253016e03e022f097b08c6762939e63dc0e9ee9c320f148874f5af
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-alias-db
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-db-sqlite
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 4868
+Filename: kamailio3-mod-alias-db_3.3.7-9_ramips_24kec.ipk
+Size: 5639
+MD5Sum: 89f5631ae39481e3ae4900a825550b51
+SHA256sum: 4fd38df7e32d211ece54e232692a104eb191860e4d080f608e348f3644eff74a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-auth-db
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-auth, kamailio3-mod-db-sqlite
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 8516
+Filename: kamailio3-mod-auth-db_3.3.7-9_ramips_24kec.ipk
+Size: 9298
+MD5Sum: a0775e0ba40720f3038e26a632c51472
+SHA256sum: 84c9350beb1c6037e94d4590531296817903afc92fe368297ce1fe709a4e593e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-auth-diameter
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17691
+Filename: kamailio3-mod-auth-diameter_3.3.7-9_ramips_24kec.ipk
+Size: 18493
+MD5Sum: 8f3ad999b6c6bb43fe8ccddf937568a4
+SHA256sum: caccfc76541e3e0dfa85699631e50ab82e4c076680d30282dde7a7c30863fd4a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-auth
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18777
+Filename: kamailio3-mod-auth_3.3.7-9_ramips_24kec.ipk
+Size: 19582
+MD5Sum: 02a49c3e052f6de641c8bad7d2f3c4b0
+SHA256sum: 9eaa678b9b8db00822ec54115698a7f0e928920d4b2c215ce2a888cec2373736
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-avpops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 29157
+Filename: kamailio3-mod-avpops_3.3.7-9_ramips_24kec.ipk
+Size: 29918
+MD5Sum: 1c6f885f91de13c8cdb6090d7a561aba
+SHA256sum: 4aa71ef3f6833ae062a754c782fa6c7ebfccbcff1dc8b9f6a27219b0f9321b98
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-benchmark
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6351
+Filename: kamailio3-mod-benchmark_3.3.7-9_ramips_24kec.ipk
+Size: 7158
+MD5Sum: 1326e5aa1228d0d57e3070817e9c8e0f
+SHA256sum: 9e9b6c388d27725ebe06ffaa3fba87cc6860926980ecab2dbf1e4c6ffba85aae
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-cfg-db
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-db-sqlite
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6649
+Filename: kamailio3-mod-cfg-db_3.3.7-9_ramips_24kec.ipk
+Size: 7449
+MD5Sum: 174b2d161ed1a069560e098a31196cad
+SHA256sum: b0e73cf7fc417a861e6ecf188267169de7713a3040f0024bc9824ebf73ef7b54
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-cfg-rpc
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 4703
+Filename: kamailio3-mod-cfg-rpc_3.3.7-9_ramips_24kec.ipk
+Size: 5472
+MD5Sum: 54d1a02dd9605daed48aa059d90881ab
+SHA256sum: d647a9b39c91e261c0ae2b019fb551625313af2f983dd038df611604bd1d2751
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-cfgutils
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 9440
+Filename: kamailio3-mod-cfgutils_3.3.7-9_ramips_24kec.ipk
+Size: 10226
+MD5Sum: db4398c07b4db171d3f63f4e92005ddd
+SHA256sum: 2f9bb030608803754c07a7d8d3e6ab5b8698f151e79e2bd0874b5ae42635f5ad
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ctl
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 40445
+Filename: kamailio3-mod-ctl_3.3.7-9_ramips_24kec.ipk
+Size: 41256
+MD5Sum: 6f61f608eae88937dca84fa150c38684
+SHA256sum: c36de4b312c10dba6ff8483b16b3d29c4f67d2e50e3ceaf3ce44db1afdf048e4
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-flatstore
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12092
+Filename: kamailio3-mod-db-flatstore_3.3.7-9_ramips_24kec.ipk
+Size: 12883
+MD5Sum: 5dd089b8a8365110e2f4b340f9e59b80
+SHA256sum: 3d162a1e95a7ddd15ec6e3a932e30dd6c22f8dbad5df2736f736eb6d92b8bef4
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-mysql
+Version: 3.3.7-9
+Depends: libc, kamailio3, libmysqlclient
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 27476
+Filename: kamailio3-mod-db-mysql_3.3.7-9_ramips_24kec.ipk
+Size: 28300
+MD5Sum: ec0edb3eb834d27a8d9d0ea64ccff280
+SHA256sum: 72d12653206fa2400e5c4aadebf17986b1e27f51884aac07e9b5e3c5a31f1a6b
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-postgres
+Version: 3.3.7-9
+Depends: libc, kamailio3, libpq
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 34555
+Filename: kamailio3-mod-db-postgres_3.3.7-9_ramips_24kec.ipk
+Size: 35445
+MD5Sum: 39e7f4ad590d4571397d14dba502dfef
+SHA256sum: 4e0e805eb46a397a732788130f3ca3ac6b428e11c464d0357a5d4b67ca7ecbb7
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-sqlite
+Version: 3.3.7-9
+Depends: libc, kamailio3, libsqlite3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11877
+Filename: kamailio3-mod-db-sqlite_3.3.7-9_ramips_24kec.ipk
+Size: 12636
+MD5Sum: 0091903bc9d3d73067d772ee20281bfa
+SHA256sum: abffa3e03f9b8cf5296e979dad6a194cd9be43004b470223d8044985eaf1f30b
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-text
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 26222
+Filename: kamailio3-mod-db-text_3.3.7-9_ramips_24kec.ipk
+Size: 26893
+MD5Sum: a125b0057b9929173632b70790a44c1e
+SHA256sum: 1b9307c427feb7ba9d1ee748a5c1312e29b399840605e572079b0c1e8f0ec6e0
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-unixodbc
+Version: 3.3.7-9
+Depends: libc, kamailio3, unixodbc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 13472
+Filename: kamailio3-mod-db-unixodbc_3.3.7-9_ramips_24kec.ipk
+Size: 14186
+MD5Sum: dea63d99fab9575b0a3839a08ff711a4
+SHA256sum: f78f8a8f4844e735a48b0e7da947da195a1b563592728b82574a663b39f8bf0d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-dialog
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-rr, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 63262
+Filename: kamailio3-mod-dialog_3.3.7-9_ramips_24kec.ipk
+Size: 64089
+MD5Sum: a2e66d95822b0dcd2eebf12e68e980b0
+SHA256sum: be4750b4843435ec7e232639959921d2f2c818adf4b56cdf154fc3d2c5fc3852
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-dialplan
+Version: 3.3.7-9
+Depends: libc, kamailio3, libpcre
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18693
+Filename: kamailio3-mod-dialplan_3.3.7-9_ramips_24kec.ipk
+Size: 19491
+MD5Sum: 3648290fe9662d6d27654dbacb39bb12
+SHA256sum: 0ccd1eb789496fc4b52f1dae5d1d133d4b37f6328ccef3d1947b7a6eec03ce18
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-dispatcher
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10569
+Filename: kamailio3-mod-dispatcher_3.3.7-9_ramips_24kec.ipk
+Size: 11340
+MD5Sum: 3a9ba25388b01334ff389766e4e4f20d
+SHA256sum: f9962c9e0cca43906e469168aebcbdc18460878c82b74612e9db317190aa7ab0
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-diversion
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2730
+Filename: kamailio3-mod-diversion_3.3.7-9_ramips_24kec.ipk
+Size: 3512
+MD5Sum: a8d930833dd380e6abe7f03aa0e8ad35
+SHA256sum: 9810f32a8a87261c3b5f13b71a386f623b0ad62c10fb71f149642a56805c86ae
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-domain
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11818
+Filename: kamailio3-mod-domain_3.3.7-9_ramips_24kec.ipk
+Size: 12597
+MD5Sum: 72ac6d2fa091d4dc2382fed802d650d4
+SHA256sum: 86870da265ef177ae09e4bdd92e10e980befa5468d0c77fb330413a7d04f408a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-domainpolicy
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 13971
+Filename: kamailio3-mod-domainpolicy_3.3.7-9_ramips_24kec.ipk
+Size: 14758
+MD5Sum: da86831cc9234b1dbdadf4ebed440122
+SHA256sum: c09597783086ae00c086f5a95a2aa9a444ad1fd68082f97d4aceb307d7dc0007
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-drouting
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 28022
+Filename: kamailio3-mod-drouting_3.3.7-9_ramips_24kec.ipk
+Size: 28822
+MD5Sum: 4b164514fbe64e560bf0247d474678ef
+SHA256sum: 50cdfa8bfc2dfeab7574bd79b04646117f3b5c0b5f22252939c9f9da4fdda3e2
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-enum
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11261
+Filename: kamailio3-mod-enum_3.3.7-9_ramips_24kec.ipk
+Size: 11960
+MD5Sum: 3838982f5bfddb81e47ff0d5a8a1324e
+SHA256sum: 1b2ea130ef917572d848afcb4f49d85332530c886a57689ebf5765ef411300cf
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-exec
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12068
+Filename: kamailio3-mod-exec_3.3.7-9_ramips_24kec.ipk
+Size: 12861
+MD5Sum: 95e328b5b2c0dcb222e1f931845d9c83
+SHA256sum: a63cc0dea8bb0a25fc37ab09e3f59d594d69a4d06982d8d8b06f29a5acd671f5
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-group
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7723
+Filename: kamailio3-mod-group_3.3.7-9_ramips_24kec.ipk
+Size: 8508
+MD5Sum: 93320d5e3a503065a14c4bb929e91ae4
+SHA256sum: 3b3772ad3d696d051e6fc3d2d0681d9dc8ca39988ad6ac462ce532efe50f1a31
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-h350
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-ldap, libopenldap
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7328
+Filename: kamailio3-mod-h350_3.3.7-9_ramips_24kec.ipk
+Size: 8131
+MD5Sum: 89a6253e608b2ea7dc3d467bf2854aa6
+SHA256sum: 506d157450e4889dfe2f4d08f54b719d16e8b2b6372519032bab43b58c6d3a28
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-htable
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21276
+Filename: kamailio3-mod-htable_3.3.7-9_ramips_24kec.ipk
+Size: 22002
+MD5Sum: 0e99f00df6c473ba0f2a7708fd93e4e1
+SHA256sum: f57d0a9485ee138a7c1cfd71d7959d5e88cafd312d4f9336eff1d51ce9a781a4
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-imc
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-db-mysql, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 22172
+Filename: kamailio3-mod-imc_3.3.7-9_ramips_24kec.ipk
+Size: 22919
+MD5Sum: cad3bdfd635fd3f5b63fda7e1d380676
+SHA256sum: 6425cc72143ba6c4b8e80b746b30143d3f1f58f36c00e6d7176748d1039641b0
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ipops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12860
+Filename: kamailio3-mod-ipops_3.3.7-9_ramips_24kec.ipk
+Size: 13598
+MD5Sum: 427670c252ee86a9671629c0dc777a4a
+SHA256sum: af036684717d92bb51ce33b6b3d87a3b58d2d0f773e2a18e76899cdc1823fd37
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-kex
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12769
+Filename: kamailio3-mod-kex_3.3.7-9_ramips_24kec.ipk
+Size: 13546
+MD5Sum: 0fadf00b34fcff813fb14eb80d4171f8
+SHA256sum: cf9fc80db7e0a62bf6596c627a573638493108d544fc1064814bfb71c7346f96
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-lcr
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm, libpcre
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 29558
+Filename: kamailio3-mod-lcr_3.3.7-9_ramips_24kec.ipk
+Size: 30318
+MD5Sum: e2a5ba940170ef73b6e0391ba9bb9739
+SHA256sum: 2dcc298f5b947aa0f8f166270932d39f936bb64eaf9792182c20baf96154cdc7
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ldap
+Version: 3.3.7-9
+Depends: libc, kamailio3, libopenldap
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 16458
+Filename: kamailio3-mod-ldap_3.3.7-9_ramips_24kec.ipk
+Size: 17279
+MD5Sum: d3b94ded9e5694f506486d062748a724
+SHA256sum: 897ecb9291adaa3b4b00df042c3a64fa816dc0ecd4ea060a07ba6a830d2c750e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-maxfwd
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 4793
+Filename: kamailio3-mod-maxfwd_3.3.7-9_ramips_24kec.ipk
+Size: 5534
+MD5Sum: ec9ebafb7cf89fe7916460b82358f69d
+SHA256sum: 60bff584b0d8e922a72c39419943d586d173d1c56e97dc929b3c5da182b0cae6
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mediaproxy
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18811
+Filename: kamailio3-mod-mediaproxy_3.3.7-9_ramips_24kec.ipk
+Size: 19568
+MD5Sum: f243dce739a71309224de67d3acf3918
+SHA256sum: f9ca6457b751c1737c603e833b1c4c3cc2b69585b21ef11646ebadfd7283d0ce
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mi-datagram
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17840
+Filename: kamailio3-mod-mi-datagram_3.3.7-9_ramips_24kec.ipk
+Size: 18654
+MD5Sum: 7e52931b22f9216ae2574499f08a839d
+SHA256sum: 7f609770ac78344a42d0e6bafb5c1d395bd4de793bb917714da84d2b84c2a390
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mi-fifo
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 14265
+Filename: kamailio3-mod-mi-fifo_3.3.7-9_ramips_24kec.ipk
+Size: 15025
+MD5Sum: e309b54ba277c9b5f1f788e08f406836
+SHA256sum: 92bcf54107992073084ce81998ad34eb1c62e0f64dd26d522f7e987f81fc295d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mi-rpc
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6245
+Filename: kamailio3-mod-mi-rpc_3.3.7-9_ramips_24kec.ipk
+Size: 7054
+MD5Sum: 669f3c13e28ca695fcf9dae4bc13fdb2
+SHA256sum: 3b5ec88f1a709f75718432999bd87388420e42e937cb2a91a06d05b8a4bb8a0f
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-msilo
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21202
+Filename: kamailio3-mod-msilo_3.3.7-9_ramips_24kec.ipk
+Size: 21982
+MD5Sum: 3bd58457695c3be528a284e8e5c608e2
+SHA256sum: b29429861012cca057395e23d8b020790cd9ed10bdb98b75c066b94deaabd8e1
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-nat-traversal
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog, kamailio3-mod-sl, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17326
+Filename: kamailio3-mod-nat-traversal_3.3.7-9_ramips_24kec.ipk
+Size: 18087
+MD5Sum: 4f3f1284f1cdb407f45d6a8d6750d293
+SHA256sum: d02e6c6172d2182c988d9185080eebf54bf5c7689f39a58a4d511e439f0dc9cd
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-nathelper
+Version: 3.3.7-9
+Depends: libc, kamailio3, rtpproxy
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21425
+Filename: kamailio3-mod-nathelper_3.3.7-9_ramips_24kec.ipk
+Size: 22173
+MD5Sum: ec0391956ca261f5b2ec1c7c1b874e3d
+SHA256sum: 7d1614d7fc352489f324cde90afc43e409ae68af0ecade1d5abfe8c3f8f8b6f7
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-path
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-rr
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5016
+Filename: kamailio3-mod-path_3.3.7-9_ramips_24kec.ipk
+Size: 5769
+MD5Sum: 08d85b2340a4e30c50b133325cb55f2c
+SHA256sum: ff30d1d10a353e6f8badf6353b060e794859cee0f9523d880b0b0c8ae2fe758e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pdt
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 13179
+Filename: kamailio3-mod-pdt_3.3.7-9_ramips_24kec.ipk
+Size: 13929
+MD5Sum: 1a339d8226b85cbea216d707f92cbecd
+SHA256sum: 3ed9f9570669712c2ccfc8a4f5ed3ce49ceb2130b2f70b1af761c766ae2a5fbd
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-permissions
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 27210
+Filename: kamailio3-mod-permissions_3.3.7-9_ramips_24kec.ipk
+Size: 27969
+MD5Sum: 81b6c1a6c7f24c0df64a9f517e88f147
+SHA256sum: b7ce21c7b190c5b277d784e84aa6fbe66409a0f066dee2d33f99b850f35e731a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pike
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10531
+Filename: kamailio3-mod-pike_3.3.7-9_ramips_24kec.ipk
+Size: 11289
+MD5Sum: 95b3ea7b44e417a59d4e018b9be5f779
+SHA256sum: 7069a2556f45222dd4f13c0757486d66f42b85c332c661fa451991b35096cfea
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence-dialoginfo
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6931
+Filename: kamailio3-mod-presence-dialoginfo_3.3.7-9_ramips_24kec.ipk
+Size: 7724
+MD5Sum: e07306ffcc03519617f98beafc396fe3
+SHA256sum: 81e30d93f1d06eb3fce0bace313a4b475f869ad2e194745d3859e88e4846661a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence-mwi
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 3333
+Filename: kamailio3-mod-presence-mwi_3.3.7-9_ramips_24kec.ipk
+Size: 4087
+MD5Sum: 15e8da334c405d5e802607b274feebf7
+SHA256sum: d8311dc43f1cbb5812a200681e37973752ac53bdff900754c406cb10c3812b60
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence-xml
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-xcap-client
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21271
+Filename: kamailio3-mod-presence-xml_3.3.7-9_ramips_24kec.ipk
+Size: 22080
+MD5Sum: 14a02bfdc3bab0b4c6b667c7e7d1d249
+SHA256sum: 77ade470505b2c43ed47248f1881ad1fa04cee14e3277d22f1e1601ddd96e4e9
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl, kamailio3-mod-tm, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 84825
+Filename: kamailio3-mod-presence_3.3.7-9_ramips_24kec.ipk
+Size: 85567
+MD5Sum: f727c68b3d039f0580b8d14ccab2b5a7
+SHA256sum: 473bb93a81c9e155e2004518fdcc858602a6f892dcfcd56270f5317e945f2c35
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-bla
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-pua, kamailio3-mod-usrloc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7111
+Filename: kamailio3-mod-pua-bla_3.3.7-9_ramips_24kec.ipk
+Size: 7919
+MD5Sum: d848e2803ba36ca6ce2b7e1806f74561
+SHA256sum: 9431054ca49668c7d26622474f6a0c2218247c3152836028b6c73c487df34086
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-dialoginfo
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog, kamailio3-mod-pua
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10087
+Filename: kamailio3-mod-pua-dialoginfo_3.3.7-9_ramips_24kec.ipk
+Size: 10844
+MD5Sum: d0dea95719586ab1309e4f34e0463751
+SHA256sum: bebf6acbcd3554eb72aa23b9ec3706f382a2bf3a7bbffef21d053fad5ea3a0d4
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-mi
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-pua
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6496
+Filename: kamailio3-mod-pua-mi_3.3.7-9_ramips_24kec.ipk
+Size: 7291
+MD5Sum: c679e3aebe9e12ab423f3e5b6e155cbf
+SHA256sum: 383b50ef56583f94b2767e6c04ae88b320ccf7bbb58572cd2254d9e2e0397b41
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-usrloc
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-pua, kamailio3-mod-usrloc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6766
+Filename: kamailio3-mod-pua-usrloc_3.3.7-9_ramips_24kec.ipk
+Size: 7562
+MD5Sum: dd3707177d0f4da4d9cccf120e9c9e47
+SHA256sum: ba5303ba21c5a1dd6edcb27021fb5cf518704bae9623e23ceb746c94876f9adb
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-xmpp
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-pua, kamailio3-mod-xmpp
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17772
+Filename: kamailio3-mod-pua-xmpp_3.3.7-9_ramips_24kec.ipk
+Size: 18555
+MD5Sum: a7eb72b28c927de30f465491d80a3d77
+SHA256sum: ad37f8f7c049074b0c779839d6e3e2f6e22a63c09ef7fccbe349d258232a02be
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 45774
+Filename: kamailio3-mod-pua_3.3.7-9_ramips_24kec.ipk
+Size: 46591
+MD5Sum: 4b9f5e834a610df06cab9284996221b6
+SHA256sum: d7f85e490de11b50be75d6055e950035975073b2410017f3da2ec526b195831e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pv
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 51835
+Filename: kamailio3-mod-pv_3.3.7-9_ramips_24kec.ipk
+Size: 52623
+MD5Sum: 92be3179d9dc943df57645c57dd3711e
+SHA256sum: 30541c42efe58dcb5862566e7c1e99aa7cff2706e51ff01c1d2f76c39deeab54
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-qos
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 14693
+Filename: kamailio3-mod-qos_3.3.7-9_ramips_24kec.ipk
+Size: 15465
+MD5Sum: 3fb18a32b40c629fd23f9fdb6bbfb834
+SHA256sum: da88dc9443f66677cb4d21090560d1f86450e28b811ee9efd5f3d642439b96fb
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ratelimit
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 14073
+Filename: kamailio3-mod-ratelimit_3.3.7-9_ramips_24kec.ipk
+Size: 14824
+MD5Sum: e5136799490ffd67be0af06afd18bf30
+SHA256sum: b87bbb295e5d8ab458bb0dfd7d79848d1c8bf28bc5daf90fb153e0a9c1aeef65
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-regex
+Version: 3.3.7-9
+Depends: libc, kamailio3, libpcre
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 8291
+Filename: kamailio3-mod-regex_3.3.7-9_ramips_24kec.ipk
+Size: 9101
+MD5Sum: 6fae516626f613a4a0d20c75838c10ce
+SHA256sum: bdb13fccef900fb44c685ae81062db5b41351a51d914b1110ea610e0ef658b5d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-registrar
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-usrloc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 28202
+Filename: kamailio3-mod-registrar_3.3.7-9_ramips_24kec.ipk
+Size: 28961
+MD5Sum: 6c9ec1298ef8210dfb42d1afcf867400
+SHA256sum: 94def72cedffc1627b71ac4deeee607c91b117d2bca55ef05b65945191ed16d9
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rls
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-pua, kamailio3-mod-tm, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 54052
+Filename: kamailio3-mod-rls_3.3.7-9_ramips_24kec.ipk
+Size: 54784
+MD5Sum: ed588d637e6b298f98a2fc3245fc8785
+SHA256sum: 9351b7b0895eef9705b23bc59971c1fd22bd01c92c006e48735ae1cb0ad920fd
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rr
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 15832
+Filename: kamailio3-mod-rr_3.3.7-9_ramips_24kec.ipk
+Size: 16573
+MD5Sum: 66ab8fffc7c51d54b4fb3bd6563478d4
+SHA256sum: 0463f9521090d95f581d9377a7674128b44987b4bef41c58393c1b456cc825f4
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rtimer
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 4175
+Filename: kamailio3-mod-rtimer_3.3.7-9_ramips_24kec.ipk
+Size: 4931
+MD5Sum: 4b01fba75cd6615b5f99d5e12aa954f3
+SHA256sum: 23afb119e090d620558bed30deea4dbeefc365f5879f7217cc80b113b4ab263e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rtpproxy
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 24292
+Filename: kamailio3-mod-rtpproxy_3.3.7-9_ramips_24kec.ipk
+Size: 25015
+MD5Sum: ed8fe5cd21df8413af9cad8d03f49bdd
+SHA256sum: a3205a0a152c44a090b20ed8bf0981e0cc30730cdb0681759cfa1b3e5486c21a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sanity
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10912
+Filename: kamailio3-mod-sanity_3.3.7-9_ramips_24kec.ipk
+Size: 11719
+MD5Sum: 4290edf411bd2469bdc3b1854bbb3da0
+SHA256sum: 8589ae2614990f7e5f5f7e898165b135cf6c414c5ba4324926f238e44c49eb72
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sipcapture
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17842
+Filename: kamailio3-mod-sipcapture_3.3.7-9_ramips_24kec.ipk
+Size: 18658
+MD5Sum: e9a58f7df9c17555a33b08f9ac1485c8
+SHA256sum: dd88235a90160002ef5eca2f45ef57dc1fd9c563c1a4c28c084538dc1f44304a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-siptrace
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18468
+Filename: kamailio3-mod-siptrace_3.3.7-9_ramips_24kec.ipk
+Size: 19241
+MD5Sum: 5050e3304ffefc9342d711cc023b49c0
+SHA256sum: 27f5877cd0a09073d847f4c1308ad9a7915e505e58fc84f7731c94bc6a19f963
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-siputils
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 20819
+Filename: kamailio3-mod-siputils_3.3.7-9_ramips_24kec.ipk
+Size: 21596
+MD5Sum: 622a1bafd3aeca05838031d6d19617c4
+SHA256sum: 9155410fc1edbcbfec0759c5b3dd10e254e8cd1b1d435dd24a665c4518dd6d54
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sl
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11995
+Filename: kamailio3-mod-sl_3.3.7-9_ramips_24kec.ipk
+Size: 12752
+MD5Sum: 9fa133cd85437a8c156a4b2621149db0
+SHA256sum: 45f843fe2f6ccd527fedc488152f2b20f7cf5f7563828d13dc421cfac04752c8
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sms
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 28080
+Filename: kamailio3-mod-sms_3.3.7-9_ramips_24kec.ipk
+Size: 28880
+MD5Sum: dbd140df63aa7b8ed68f7a3411166b9a
+SHA256sum: 9957f95a7763bec226ef125e67d25ad7543391c7d76550e3247757db364e019a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-speeddial
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 4942
+Filename: kamailio3-mod-speeddial_3.3.7-9_ramips_24kec.ipk
+Size: 5702
+MD5Sum: 988d0d7c418bd2f950107845fd974ddd
+SHA256sum: 0695ea1e8e714d88eff5b4578f0d679c3749a491f01b0ed4bca2320811f1492d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sqlops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 13975
+Filename: kamailio3-mod-sqlops_3.3.7-9_ramips_24kec.ipk
+Size: 14735
+MD5Sum: 49cce95db7e239cb016f06b92fa089ff
+SHA256sum: db7ecc35f1f7bd2c46ca89e88f0b0ce9610fe98b9e13051823ea82792461946a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sst
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 9765
+Filename: kamailio3-mod-sst_3.3.7-9_ramips_24kec.ipk
+Size: 10545
+MD5Sum: 8bfcd13321b354ef18629f224d26813f
+SHA256sum: 256994761be3fc4fea8d592be7c854806cba2a72d750c7c380e1a256ce179a19
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-statistics
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 4124
+Filename: kamailio3-mod-statistics_3.3.7-9_ramips_24kec.ipk
+Size: 4882
+MD5Sum: 80161e10a58b0f648de0d23782c6e788
+SHA256sum: ab0c5be365f9e1f43fc8de237e8bca1cd929e86cb471d847d6848e396b4cf9ed
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-textops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21363
+Filename: kamailio3-mod-textops_3.3.7-9_ramips_24kec.ipk
+Size: 22131
+MD5Sum: 0c65b6bcadb7b5a9472f0fdaff67661c
+SHA256sum: 64dd3fc370e3cc89e960d0f1630e6df825145ed81ca3e04dac3712a7d83b5fa3
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-tls
+Version: 3.3.7-9
+Depends: libc, kamailio3, libopenssl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 54642
+Filename: kamailio3-mod-tls_3.3.7-9_ramips_24kec.ipk
+Size: 55295
+MD5Sum: 440094f0735ba722e09fb094a5fd5e83
+SHA256sum: a09caf50107491a119800e07f7a7aefbf5dca9ba7e49cdde357a498c7149a890
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-tm
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 128795
+Filename: kamailio3-mod-tm_3.3.7-9_ramips_24kec.ipk
+Size: 129490
+MD5Sum: a9e627a4646a5a83c3fb9a4dc2d5c581
+SHA256sum: f146b3a9fea2dabeaa993400022cb24c6bbccfa899020e437042dbd71323c4d4
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-tmx
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 14676
+Filename: kamailio3-mod-tmx_3.3.7-9_ramips_24kec.ipk
+Size: 15398
+MD5Sum: 73e3b4fc0e4d2a6e44f417a9bee9a19c
+SHA256sum: 1f792be9a1b632a00867f9817ca32978312bbc39b1281fd7b053772daa9df09c
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-uac-redirect
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7716
+Filename: kamailio3-mod-uac-redirect_3.3.7-9_ramips_24kec.ipk
+Size: 8508
+MD5Sum: 7b78a5b9afc910bafc43c1e1dbd5430a
+SHA256sum: 4df4ff3a13069c6d94f411b3bd01ead1d1d004147870cbc11fbd1fa0424dae95
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-uac
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 31864
+Filename: kamailio3-mod-uac_3.3.7-9_ramips_24kec.ipk
+Size: 32704
+MD5Sum: 88c16b3c7a987a357255b455718b0b13
+SHA256sum: e95cb4472585ac3f01c5d6a70b5a0d565889788f169f1a0e1b86c8faf4c1ebf8
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-uri-db
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5582
+Filename: kamailio3-mod-uri-db_3.3.7-9_ramips_24kec.ipk
+Size: 6301
+MD5Sum: 088b254be63f923b379e41cdfa74b8b6
+SHA256sum: 24c36b75d8671cb1f2b74faf7336615ab7cc23d0c9b9b7d00b7135f48474175a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-userblacklist
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 9414
+Filename: kamailio3-mod-userblacklist_3.3.7-9_ramips_24kec.ipk
+Size: 10195
+MD5Sum: a451db2135249628aad3e3ff1672a80d
+SHA256sum: bb9003bb2734eb8cdad465ddecdc80b2e9d6373b1ce67fdec11dd19662848308
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-usrloc
+Version: 3.3.7-9
+Depends: libc, kamailio3, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 88919
+Filename: kamailio3-mod-usrloc_3.3.7-9_ramips_24kec.ipk
+Size: 89755
+MD5Sum: e847dc062316e85cdd48bb7d48552f5d
+SHA256sum: 35d23310f67736a8479b5fc0def992f5f996961c072eaae4c8b5618ff50ab9ef
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-utils
+Version: 3.3.7-9
+Depends: libc, kamailio3, libcurl, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17081
+Filename: kamailio3-mod-utils_3.3.7-9_ramips_24kec.ipk
+Size: 17840
+MD5Sum: d7e151c2322422ecf7c381ab22ccc903
+SHA256sum: e2478c6aaec7c565e66c378fc26bf4776bd5044d442b6e3c10c495d6f8d89121
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xcap-client
+Version: 3.3.7-9
+Depends: libc, kamailio3, libcurl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10384
+Filename: kamailio3-mod-xcap-client_3.3.7-9_ramips_24kec.ipk
+Size: 11154
+MD5Sum: acc3354aa2a328b94f3bf276cb40dbe0
+SHA256sum: 3b5a4c41ca3610ec7fcd4ece658b47f4a98f89a18af97eb95c416235cb17f3f0
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xlog
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7227
+Filename: kamailio3-mod-xlog_3.3.7-9_ramips_24kec.ipk
+Size: 8023
+MD5Sum: 2261c986434ebcb6c4ba54ed67065d98
+SHA256sum: 8d8852d88f4a25ffea365866138e34cfff213e28860035849ef7357207f7d497
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xmlrpc
+Version: 3.3.7-9
+Depends: libc, kamailio3, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17763
+Filename: kamailio3-mod-xmlrpc_3.3.7-9_ramips_24kec.ipk
+Size: 18563
+MD5Sum: 72192da28c3c98eda9a69a9253e7bf6d
+SHA256sum: f1575c4b4ad607136835fc300560bc37a4e5f2fb1ed4860da805267521a700ca
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xmpp
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm, libexpat, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 45795
+Filename: kamailio3-mod-xmpp_3.3.7-9_ramips_24kec.ipk
+Size: 46618
+MD5Sum: 2c0dfdde994c8491ee9613e12a794b15
+SHA256sum: 9b90307f15c1e9cb684e1bf73e80e66c145243d2335e09a12de8c192c8be1a62
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3
+Version: 3.3.7-9
+Depends: libc, libncurses, libpthread, libreadline
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 825475
+Filename: kamailio3_3.3.7-9_ramips_24kec.ipk
+Size: 825842
+MD5Sum: c5f48d133bec810c4989f88e042de213
+SHA256sum: cb4f50a91a43d63911d8b5c558162e2152d7f66f03f886bcb733a221ce4c53b7
+Description:  Mature and flexible open source SIP server, v3.3.7
+
+Package: kmod-dahdi-dummy
+Version: 3.18.27+2.10.2-2
+Depends: kernel (=3.18.27-1-e4b102b6c99e1ae384fde40b02131b1a), kmod-dahdi
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ramips_24kec
+Installed-Size: 2280
+Filename: kmod-dahdi-dummy_3.18.27+2.10.2-2_ramips_24kec.ipk
+Size: 3188
+MD5Sum: 20fa08f8d0d31828ec091d17a33afad2
+SHA256sum: 73d32f1d0851f0fc1ae55c633d994168137a5adce622fee075e8b23415501c31
+Description:  This package contains the dummy DAHDI driver providing only DAHDI timing
+ without any real telephony hardware.
+
+Package: kmod-dahdi-echocan-oslec
+Version: 3.18.27+2.10.2-2
+Depends: kernel (=3.18.27-1-e4b102b6c99e1ae384fde40b02131b1a), kmod-dahdi, kmod-echo
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ramips_24kec
+Installed-Size: 1477
+Filename: kmod-dahdi-echocan-oslec_3.18.27+2.10.2-2_ramips_24kec.ipk
+Size: 2393
+MD5Sum: d18849de6fc5987110160fb715029f8e
+SHA256sum: 44756cfe1731126a4b8ed30c315fcc709c7b4dfeb6e55817e1df186ecf7ab2cb
+Description:  This package contains DAHDI OSLEC echo canceller support.
+
+Package: kmod-dahdi-hfcs
+Version: 3.18.27+2.10.2-2
+Depends: kernel (=3.18.27-1-e4b102b6c99e1ae384fde40b02131b1a), kmod-dahdi
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ramips_24kec
+Installed-Size: 9875
+Filename: kmod-dahdi-hfcs_3.18.27+2.10.2-2_ramips_24kec.ipk
+Size: 10783
+MD5Sum: aec175b45634714a7867008129472123
+SHA256sum: 85576d824abbd7ddf16a86249db2c6283d74884c3515acb1611cc7e780087d2a
+Description:  This package contains DAHDI driver for HFC-S based PCI BRI adapters.
+
+Package: kmod-dahdi
+Version: 3.18.27+2.10.2-2
+Depends: kernel (=3.18.27-1-e4b102b6c99e1ae384fde40b02131b1a), kmod-lib-crc-ccitt
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ramips_24kec
+Installed-Size: 56293
+Filename: kmod-dahdi_3.18.27+2.10.2-2_ramips_24kec.ipk
+Size: 56924
+MD5Sum: c12b7b2dfe4fa5404b142cc6a16bcdb2
+SHA256sum: 7693482944f57c815275e4effe3644db97dd59b572861c82782fbc59eb4ab028
+Description:  This package contains DAHDI basic infrastructure.
+
+Package: libiksemel
+Version: 1.4-1
+Depends: libc, libgnutls, libtasn1, libgcrypt, libgpg-error
+Source: feeds/telephony/libs/iksemel
+License: LGPL-2.1
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 19259
+Filename: libiksemel_1.4-1_ramips_24kec.ipk
+Size: 20201
+MD5Sum: 99f4ed802ffbc524b0284ca6bbd96ee1
+SHA256sum: 9adffbfdbea8a74743dea178ea1ee6bbce58adc9a882b8dcd1e5ea537c427d86
+Description:  Iksemel is an XML parser library mainly designed for Jabber applications.
+ It provides SAX, DOM, and special Jabber stream APIs. Library is coded
+ in ANSI C except the network code (which is POSIX compatible), thus
+ highly portable.
+
+Package: libortp
+Version: 0.23.0-1
+Depends: libc, libpthread, librt
+Source: feeds/telephony/libs/ortp
+License: LGPL-2.1
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Nicolas Thill <nico@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 49266
+Filename: libortp_0.23.0-1_ramips_24kec.ipk
+Size: 50081
+MD5Sum: 0501049e1eab9609f81f13664d45c6b7
+SHA256sum: e2a310b57785c9b2868e0d213b712d8b6fa2ceb02d7d977522c92174b7bfde36
+Description:  Real-time Transport Protocol (RTP) library
+
+Package: libosip2
+Version: 4.1.0-1
+Depends: libc, librt
+Source: feeds/telephony/libs/libosip2
+License: LGPL-2.1+
+LicenseFiles: COPYING
+Section: libs
+Architecture: ramips_24kec
+Installed-Size: 59224
+Filename: libosip2_4.1.0-1_ramips_24kec.ipk
+Size: 60060
+MD5Sum: d2fa7adc67787f1c560b406bb67254dc
+SHA256sum: 4dd2bb668b752fd4566f4414f5b52d8dba3fe051a6c03ba1762c53298f61a738
+Description:  GNU oSIP library, a Session Initiation Protocol (SIP) implementation.
+
+Package: libpri
+Version: 1.4.15-1
+Depends: libc, dahdi-tools-libtonezone
+Source: feeds/telephony/libs/libpri
+Section: libs
+Maintainer: Daniel Golle <daniel@makrotopia.org>
+Architecture: ramips_24kec
+Installed-Size: 159930
+Filename: libpri_1.4.15-1_ramips_24kec.ipk
+Size: 160500
+MD5Sum: 34ca7a6ff438c4e4f55596c3fd19f66f
+SHA256sum: 78f35f08f31bb02b3dae2b80dbc39e7f523099a6b7fc8b6652fa674041392e4c
+Description:  libpri is a C implementation of the Primary Rate ISDN specification. It was
+ based on the Bellcore specification SR-NWT-002343 for National ISDN. As of
+ May 12, 2001, it has been tested work with NI-2, Nortel DMS-100, and
+ Lucent 5E Custom protocols on switches from Nortel and Lucent.
+
+Package: libre
+Version: 0.4.13-1
+Depends: libc, libopenssl, libpthread
+Source: feeds/telephony/libs/re
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 149225
+Filename: libre_0.4.13-1_ramips_24kec.ipk
+Size: 149916
+MD5Sum: 26d9f93a62449b5de6b8ce9145aca28a
+SHA256sum: 8fb78e549fd88e96d239458817e1de15cfe3a4f364a251037c9d98e896517f9a
+Description:  Generic library for real-time communications with async IO support
+
+Package: librem
+Version: 0.4.6-1
+Depends: libc, libre, libpthread
+Source: feeds/telephony/libs/rem
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 17845
+Filename: librem_0.4.6-1_ramips_24kec.ipk
+Size: 18635
+MD5Sum: a7fcefe52e1fe0739cf24aaebeed517c
+SHA256sum: 867dbd965c3103dc2a7c07289d1de250910eb6f322cbed546768ca069d677f4c
+Description:  Audio and video processing media library
+
+Package: libspandsp
+Version: 0.0.6-2
+Depends: libc, libtiff
+Source: feeds/telephony/libs/spandsp
+License: LGPL-2.1 GPL-2.0
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 273752
+Filename: libspandsp_0.0.6-2_ramips_24kec.ipk
+Size: 273191
+MD5Sum: 22aa65e9d9c0eea406d942c18affbf49
+SHA256sum: efd08d1bba13c3795e43ff43fa547b3105efef6b7bca6797c0fcf9d15a880a85
+Description:  spandsp library
+
+Package: miax
+Version: 1.4-2
+Depends: libc, libpthread
+Source: feeds/telephony/net/miax
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 32861
+Filename: miax_1.4-2_ramips_24kec.ipk
+Size: 33653
+MD5Sum: 28909843f9a1d6c7f3df9a2c4776b544
+SHA256sum: e651577e6e3803e9aa25759dc20237d6bd098c3ba052d374948dc66dd73b8b27
+Description:  miax is a console iax (asterisk) client, it can work with 
+ a soundcard as a normal voip phone, taking input/output from 
+ keyboard or analog/gsm/isdn modem.
+
+Package: pcapsipdump
+Version: 0.2-1
+Depends: libc, libpcap, uclibcxx
+Source: feeds/telephony/net/pcapsipdump
+License: GPL-2.0+
+LicenseFiles: LICENSE
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 6916
+Filename: pcapsipdump_0.2-1_ramips_24kec.ipk
+Size: 7795
+MD5Sum: b4957d001caeec967d1a47e233a79336
+SHA256sum: b5fbabe0fd4313b1ee9c664a629af9a1ae859926791157983eadd576609bd4fc
+Description:  pcapsipdump is a tool for dumping SIP sessions (+RTP traffic, if available) to disk in a
+ fashion similar to "tcpdump -w" (format is exactly the same), but one file per sip session
+ (even if there is thousands of concurrect SIP sessions).
+
+Package: restund-mod-mysql
+Version: 0.4.11-1
+Depends: libc, restund, libmysqlclient
+Source: feeds/telephony/net/restund
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 2649
+Filename: restund-mod-mysql_0.4.11-1_ramips_24kec.ipk
+Size: 3448
+MD5Sum: a5dbd6f268b3b0610cd06b7afaa7da9c
+SHA256sum: 66b4aee370d4b0ec7c6eb28cf3d752a70e02bea43dd2862b7c7e7b109e095230
+Description:  restund MySQL database backend module
+
+Package: restund
+Version: 0.4.11-1
+Depends: libc, libre, libpthread
+Source: feeds/telephony/net/restund
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 27061
+Filename: restund_0.4.11-1_ramips_24kec.ipk
+Size: 27819
+MD5Sum: b39ba6d3421ad47a8e193c5cd6fde980
+SHA256sum: bd7c3b6e664d1017d4ff3d27784fa336cbd45d58fbcfbe29119ea9098eccb87c
+Description:  Modular STUN/TURN server
+
+Package: rtpproxy
+Version: 2.0.0-1
+Depends: libc, libpthread, librt
+Source: feeds/telephony/net/rtpproxy
+License: BSD-2-Clause
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 40071
+Filename: rtpproxy_2.0.0-1_ramips_24kec.ipk
+Size: 40848
+MD5Sum: e88878bc8fdcd571ef81f73513542478
+SHA256sum: f2460874b243f4ca691abdd8ab3e64300cbdc53db77f5782a860d42637cf6cc6
+Description:  RTP (Realtime Transport Protocol) proxy
+
+Package: sipp
+Version: 3.3.990-1
+Depends: libc, libncurses, libpthread, uclibcxx
+Source: feeds/telephony/net/sipp
+License: GPL-2.0+ BSD-3-Clause Zlib
+LicenseFiles: LICENSE.txt
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 144241
+Filename: sipp_3.3.990-1_ramips_24kec.ipk
+Size: 144924
+MD5Sum: 95a0d796ff26e67ca10c4ffc2b830d29
+SHA256sum: 6bec05713489f0af2183f873a4607ac399475a30dd097d78b522ffa4c31b0348
+Description:  SIPp is a free Open Source test tool / traffic generator for the SIP
+ protocol. It includes a few basic SipStone user agent scenarios (UAC and
+ UAS) and establishes and releases multiple calls with the INVITE and BYE
+ methods.
+
+Package: siproxd-mod-defaulttarget
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 2300
+Filename: siproxd-mod-defaulttarget_0.8.1-4_ramips_24kec.ipk
+Size: 3027
+MD5Sum: cd3a162ad7a911e5e5f7794bfc1fafa6
+SHA256sum: b6237a28a92ff13d4890c2303fd06612fec139ab537f4d1c486a41a9008ddf45
+Description:  siproxd defaulttarget plugin
+
+Package: siproxd-mod-demo
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 1665
+Filename: siproxd-mod-demo_0.8.1-4_ramips_24kec.ipk
+Size: 2389
+MD5Sum: fb2770f099d392b3bd4033bd84f88253
+SHA256sum: be4b2d5396f1d1e32f7660f29094e75bbb6e7eb1be729e3c45f0bc78c750fef1
+Description:  siproxd demo plugin
+
+Package: siproxd-mod-fix_bogus_via
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 2307
+Filename: siproxd-mod-fix_bogus_via_0.8.1-4_ramips_24kec.ipk
+Size: 3037
+MD5Sum: 556954d89d7e5fcd0bdd645ce17ef325
+SHA256sum: ab4681faf565148c3b7c5fea250f2382b070b6770a6f468247fff7a380a149a8
+Description:  siproxd fix_bogus_via plugin
+
+Package: siproxd-mod-logcall
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 1851
+Filename: siproxd-mod-logcall_0.8.1-4_ramips_24kec.ipk
+Size: 2571
+MD5Sum: 7b321d396ce57167e8a6a255a350666e
+SHA256sum: fe5421d028bba41323dcb5b653abe6c56853b32e4b1692ef37d322e75a2c0dcc
+Description:  siproxd logcall plugin
+
+Package: siproxd-mod-prefix
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 2869
+Filename: siproxd-mod-prefix_0.8.1-4_ramips_24kec.ipk
+Size: 3605
+MD5Sum: 6d7adc4d9c69576c72f0dcd7a615a0c0
+SHA256sum: 09377641f2ac5a604ddec7675e6baf17dd70e2967fee37ea9f6efe900e8f905a
+Description:  siproxd prefix plugin
+
+Package: siproxd-mod-regex
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 4151
+Filename: siproxd-mod-regex_0.8.1-4_ramips_24kec.ipk
+Size: 4832
+MD5Sum: 731de2bf49a871c680e81cd9c3ffc035
+SHA256sum: 9a3956bf876fdefb7ef62236b23df07eece52ccef7b3d4e3d38f7e0bf1743fbf
+Description:  siproxd regex plugin
+
+Package: siproxd-mod-shortdial
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 2769
+Filename: siproxd-mod-shortdial_0.8.1-4_ramips_24kec.ipk
+Size: 3505
+MD5Sum: 69f8c2ff9ba17409112768b02593e7cf
+SHA256sum: 2f09071eeda8479af7b0736289bbf8cdab05874f7bfd3b12ec48bfce35b99875
+Description:  siproxd shortdial plugin
+
+Package: siproxd-mod-stun
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 3402
+Filename: siproxd-mod-stun_0.8.1-4_ramips_24kec.ipk
+Size: 4124
+MD5Sum: 271355307a6586ffee77ff21b5c93aad
+SHA256sum: bb461ea6c4f6a8c03986efee83d412caecbcd78deffa26a5ebee21aa8c946dcc
+Description:  siproxd stun plugin
+
+Package: siproxd
+Version: 0.8.1-4
+Depends: libc, libltdl, libpthread, libosip2
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 49858
+Filename: siproxd_0.8.1-4_ramips_24kec.ipk
+Size: 50456
+MD5Sum: 8613e58c32ab21c01fd483bc5632f3e6
+SHA256sum: be0292f4f5d7860fb362fe52869ca9d85ecd0f95aa544ce72af9b5abb91001f3
+Description:  Siproxd is a proxy/masquerading daemon for the SIP protocol.
+
+Package: yate-mod-accfile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7687
+Filename: yate-mod-accfile_5.5.0-1-1_ramips_24kec.ipk
+Size: 8480
+MD5Sum: a1d159abef26b32dc1a3c0dd7dba5d7e
+SHA256sum: 8ddb1a6204f6549b6f4af387eee0605d1fce2f88c1d523aaa578e39d620e4e95
+Description:  SIP or H.323 client (from file) module for yate
+
+Package: yate-mod-alsachan
+Version: 5.5.0-1-1
+Depends: libc, yate, alsa-lib
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12137
+Filename: yate-mod-alsachan_5.5.0-1-1_ramips_24kec.ipk
+Size: 12912
+MD5Sum: e9476503b5496b206e25b89b117b5a56
+SHA256sum: d85e874d0e7a387cf29c4eec9a9bbe398619e2d2b148b0590e95f5ec89b75463
+Description:  ALSA Sound Channel module for yate
+
+Package: yate-mod-analog
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 32686
+Filename: yate-mod-analog_5.5.0-1-1_ramips_24kec.ipk
+Size: 33500
+MD5Sum: 8399b12fb20c908d77d10a285c3ac2f0
+SHA256sum: d424780f5c7ce34ebab541a8220de912c6ca2981134d22e286f7a084d62cffef
+Description:  Analog (e.g. POTS) Channel module for yate
+
+Package: yate-mod-analogdetect
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18548
+Filename: yate-mod-analogdetect_5.5.0-1-1_ramips_24kec.ipk
+Size: 19289
+MD5Sum: e5365b91785f3d7242579efbeaffea2b
+SHA256sum: d75d30659aed61364a3efc6d1b14f3f074bbb758412961f7db9267351f732afb
+Description:  Analog Data Detector module for yate
+
+Package: yate-mod-analyzer
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12909
+Filename: yate-mod-analyzer_5.5.0-1-1_ramips_24kec.ipk
+Size: 13667
+MD5Sum: 53b1c5639507791aceb373b561d34c05
+SHA256sum: 5e5619d91bf2161b825f6ba7c7db577c805e322818943aa478dac86b3537c23f
+Description:  Test Call Generator and AQ Analyzer module for yate
+
+Package: yate-mod-cache
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 22147
+Filename: yate-mod-cache_5.5.0-1-1_ramips_24kec.ipk
+Size: 22918
+MD5Sum: 2bd91cf1fc700baf585fe3909875a520
+SHA256sum: 6bc98c04d375f3f4297f2bdec6f45f407b890ca87bd9a8760423b3da0d8ef0c9
+Description:  CNAM and LNP memory caches module for yate
+
+Package: yate-mod-callcounters
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6264
+Filename: yate-mod-callcounters_5.5.0-1-1_ramips_24kec.ipk
+Size: 7055
+MD5Sum: 2f5a9cd92c6ec70c7bb76363867e112b
+SHA256sum: dbff8e974f9a808fc92c3931b47d9a9207a446f65d4a1b8c0896569e6a89c2fb
+Description:  Count Active Call Legs module for yate
+
+Package: yate-mod-callfork
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 14207
+Filename: yate-mod-callfork_5.5.0-1-1_ramips_24kec.ipk
+Size: 14937
+MD5Sum: 337598dad41bdecde403f89a2ac6cc73
+SHA256sum: caf9b091531ca03b664f077233e508d5e60fa309a86c58ece8c6cc48683f96b3
+Description:  Call Forker module for yate
+
+Package: yate-mod-callgen
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12911
+Filename: yate-mod-callgen_5.5.0-1-1_ramips_24kec.ipk
+Size: 13652
+MD5Sum: 676b01b283fdd637965671d7f9fa0edc
+SHA256sum: 7b7ec359a7f0837e907f08b9b9e6531fa7545711e518ed7314ef44cbb797339e
+Description:  Call Generator module for yate
+
+Package: yate-mod-ccongestion
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5820
+Filename: yate-mod-ccongestion_5.5.0-1-1_ramips_24kec.ipk
+Size: 6588
+MD5Sum: f784a301fc53ccd65dfa6fec02cf7f5d
+SHA256sum: 32f9b486f6aa12c3c2e1da8dea3828cd72bfebb613434cb13a192fd765725853
+Description:  Accept Status from Installed Engine Monitors module for yate
+
+Package: yate-mod-cdrbuild
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 15459
+Filename: yate-mod-cdrbuild_5.5.0-1-1_ramips_24kec.ipk
+Size: 16165
+MD5Sum: 42bb189952259232d77c2b1c2fd85dec
+SHA256sum: 033165d6abbc3244d95a9f2c4b207eb2d9cfafcdd88c8f03a7c28f10704d8c3e
+Description:  Call Detail Record Builder module for yate
+
+Package: yate-mod-cdrcombine
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6560
+Filename: yate-mod-cdrcombine_5.5.0-1-1_ramips_24kec.ipk
+Size: 7362
+MD5Sum: f8468648dce67fde1dd70d91d32b309f
+SHA256sum: 8d520724117ea787127098b5aad9479998bf40102a747256fe7336e32a4e83dd
+Description:  Call Detail Records per call instead of per call leg module for yate
+
+Package: yate-mod-cdrfile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5305
+Filename: yate-mod-cdrfile_5.5.0-1-1_ramips_24kec.ipk
+Size: 6068
+MD5Sum: bc7b473e97f3fa9a9f547c083b697d9c
+SHA256sum: 9fe0acde5a405282018f0785a86bfba62399f51b938614e696d5a81f8761e420
+Description:  Call Detail Record to File module for yate
+
+Package: yate-mod-ciscosm
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21548
+Filename: yate-mod-ciscosm_5.5.0-1-1_ramips_24kec.ipk
+Size: 22290
+MD5Sum: 0c97bf07e22891d75437892c9a129cd2
+SHA256sum: f57820dad19465d2e383b8ae327bf95055e80974483694e42e318311bad5f831
+Description:  SS7 Support module for yate
+
+Package: yate-mod-clustering
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7128
+Filename: yate-mod-clustering_5.5.0-1-1_ramips_24kec.ipk
+Size: 7924
+MD5Sum: d96a235dccc0abf9d87a45464509cdc2
+SHA256sum: b81d533c7ab7a8e3ad1d0de6c9fe6885469222d339fd5e51e978f76660ca3baa
+Description:  Clustering Server Support module for yate
+
+Package: yate-mod-conference
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18858
+Filename: yate-mod-conference_5.5.0-1-1_ramips_24kec.ipk
+Size: 19642
+MD5Sum: d995940fe5af08fa78cc9c8db7a1cf51
+SHA256sum: e72a9dc4ed15506a908e53607f5d3001814cdb29f5773c2b2025473eb9a3c7e0
+Description:  Conference Room Mixer module for yate
+
+Package: yate-mod-cpuload
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11925
+Filename: yate-mod-cpuload_5.5.0-1-1_ramips_24kec.ipk
+Size: 12712
+MD5Sum: 25e86e65c90aab340df0971b0dd05787
+SHA256sum: c2e6c7ebc49d916e7625b5249dea48ace9bcd1bf83ef781725a923fe9b1be324
+Description:  Monitor CPU load and Inform Yate module for yate
+
+Package: yate-mod-dbpbx
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 9527
+Filename: yate-mod-dbpbx_5.5.0-1-1_ramips_24kec.ipk
+Size: 10338
+MD5Sum: 79d0110108dba21960167116eb191181
+SHA256sum: 8d9281f8062851bf33e467da5f557fb97e12cd11a090333f406c45a5ca934c21
+Description:  PBX IVR and Multi-routing from Database module for yate
+
+Package: yate-mod-dbwave
+Version: 5.5.0-1-1
+Depends: libc, yate, yate-mod-wavefile
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5893
+Filename: yate-mod-dbwave_5.5.0-1-1_ramips_24kec.ipk
+Size: 6646
+MD5Sum: e2b3e08879215a34896ea01b100f9912
+SHA256sum: b8d73f17bbc02151170eb06224d37c3426ba649187736de62cfd6654c075bc4a
+Description:  Wav Media for DB Storage module for yate
+
+Package: yate-mod-dumbchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5805
+Filename: yate-mod-dumbchan_5.5.0-1-1_ramips_24kec.ipk
+Size: 6554
+MD5Sum: 728e46637317734130a10e3708511564
+SHA256sum: 79762425f81cc5bb836438d17f99f57f847c3febc8f27e0f6512f9d9a5b86a91
+Description:  Dummy Channel module for yate
+
+Package: yate-mod-enumroute
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7916
+Filename: yate-mod-enumroute_5.5.0-1-1_ramips_24kec.ipk
+Size: 8692
+MD5Sum: d204d98cd7bfaabebc59f7bc840bff6a
+SHA256sum: 8e2d12fd853cc68ec84873f7c82ea1cad0422cec1b724c74bfc17eae53a3eee0
+Description:  ENUM Routing module for yate
+
+Package: yate-mod-eventlogs
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5675
+Filename: yate-mod-eventlogs_5.5.0-1-1_ramips_24kec.ipk
+Size: 6437
+MD5Sum: 41b3b73e17b35a33a35bb87b3c4bcab9
+SHA256sum: f3fc7d4712431165165483a2ba3be7ea806682974221833c0a94407718fa038a
+Description:  Write events and alarms to log files module for yate
+
+Package: yate-mod-extmodule
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 25358
+Filename: yate-mod-extmodule_5.5.0-1-1_ramips_24kec.ipk
+Size: 26086
+MD5Sum: 2f93cfb3ef7aefddb5c510c4233c1e53
+SHA256sum: a9d6a3f28542fa4993ca5b2c66afa01b1f0df5e56b98db06f12450dbdacdca56
+Description:  External Module Handler module for yate
+
+Package: yate-mod-faxchan
+Version: 5.5.0-1-1
+Depends: libc, yate, libspandsp
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 14878
+Filename: yate-mod-faxchan_5.5.0-1-1_ramips_24kec.ipk
+Size: 15628
+MD5Sum: 9c35fdf4c56a2182e0347fce94c2e943
+SHA256sum: fe6b921d014eb5e58ed21a77d5f251140d91c63c13ac25fe93af97cb2fb60465
+Description:  Spandsp Fax Channel module for yate
+
+Package: yate-mod-filetransfer
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 19908
+Filename: yate-mod-filetransfer_5.5.0-1-1_ramips_24kec.ipk
+Size: 20655
+MD5Sum: f188aed989671c3f8be5d57d852793df
+SHA256sum: 1ba2343e2e98d614865a81f7b27ccde28706a2216158899286a1a476c22cbbdf
+Description:  File Transfer Driver module for yate
+
+Package: yate-mod-gvoice
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6808
+Filename: yate-mod-gvoice_5.5.0-1-1_ramips_24kec.ipk
+Size: 7580
+MD5Sum: f22d52596d9f3289768d01c5c58ad1e4
+SHA256sum: 30a6d9b587075bc76d5e8b0c4da1d27ff3700fa68c7e8ce4c65a1adaf4631151
+Description:  Google Voice support module for yate
+
+Package: yate-mod-heartbeat
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 8037
+Filename: yate-mod-heartbeat_5.5.0-1-1_ramips_24kec.ipk
+Size: 8825
+MD5Sum: 842cff9cfe0f0237973092dd5eda967e
+SHA256sum: 096bd73d301c47a9cf610fa04f83202a1f17794c77ca585260203ce5d133b8eb
+Description:  Linux-HA compatible heartbeat module for yate
+
+Package: yate-mod-ilbccodec
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 56641
+Filename: yate-mod-ilbccodec_5.5.0-1-1_ramips_24kec.ipk
+Size: 57422
+MD5Sum: 76aab0e2a7d0ac75a31bc4f0ddd58aca
+SHA256sum: b517e8ba5afa48c05e9d28b67e1e19430c3151613b37b82180a701995fb5feae
+Description:  iLBC Codec module for yate
+
+Package: yate-mod-ilbcwebrtc
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 39830
+Filename: yate-mod-ilbcwebrtc_5.5.0-1-1_ramips_24kec.ipk
+Size: 40671
+MD5Sum: 0cde681f64184d43650a43dc25e4c0af
+SHA256sum: f7434a73961418ff757d74a29507e6eafe8b302a8e5a9943c5a69c4c82c188ac
+Description:  iLBC Codec from the WebRTC project module for yate
+
+Package: yate-mod-isaccodec
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 131199
+Filename: yate-mod-isaccodec_5.5.0-1-1_ramips_24kec.ipk
+Size: 131783
+MD5Sum: bc9cf4219aacf801eb8596eed353d90b
+SHA256sum: 356a936df7a327992c37696ca2b5005d049a4c549e8a8437d5bb1f232031ad05
+Description:  internet Speech Audio Codec module for yate
+
+Package: yate-mod-isupmangler
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12366
+Filename: yate-mod-isupmangler_5.5.0-1-1_ramips_24kec.ipk
+Size: 13153
+MD5Sum: c11d6b9e5df6d1b20e7f0c4e433d5ea0
+SHA256sum: e0f6ffa6e257581043e84a6856dc4931bf98cebc4268e735ad9b5ef452fecc49
+Description:  ISUP parameter mangling in a STP module for yate
+
+Package: yate-mod-jabberclient
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 42412
+Filename: yate-mod-jabberclient_5.5.0-1-1_ramips_24kec.ipk
+Size: 43237
+MD5Sum: ea3e33884a17c94e6be42a1775bf22fd
+SHA256sum: 97cbb7abf7e9bc04996019203f037182dcdd36a4d3ae6977a04debf4c1fbac18
+Description:  Jabber Client module for yate
+
+Package: yate-mod-jabberserver
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 52820
+Filename: yate-mod-jabberserver_5.5.0-1-1_ramips_24kec.ipk
+Size: 53607
+MD5Sum: 935de376ac8ec389bfc2268fd136a48b
+SHA256sum: 6c0df0b7d89a9276b7225e1ebb3ac90113b54bb91df848f0405d3e3fdd83ea65
+Description:  Jabber Server module for yate
+
+Package: yate-mod-javascript
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 53890
+Filename: yate-mod-javascript_5.5.0-1-1_ramips_24kec.ipk
+Size: 54605
+MD5Sum: 4547b26ea34d315b57632cea306ad470
+SHA256sum: ee7aa944e70d7ffdd772e1c3d28f10cdd27b4b1074e2eab758559eddbc0307fb
+Description:  Routing using the embedded Javascript language module for yate
+
+Package: yate-mod-jbfeatures
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 15309
+Filename: yate-mod-jbfeatures_5.5.0-1-1_ramips_24kec.ipk
+Size: 16075
+MD5Sum: 3cc4effbfa1f0508fd0a7919a0e601c4
+SHA256sum: fe7977215c0cbcffe7a3ee3a674cf52f735f9758832d5a4de968ba917efd7f1b
+Description:  Jabber Server Features module for yate
+
+Package: yate-mod-lateroute
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5925
+Filename: yate-mod-lateroute_5.5.0-1-1_ramips_24kec.ipk
+Size: 6677
+MD5Sum: 4905375df5cfa3b61826bc2681cadba8
+SHA256sum: 03836ecbde0aaceee0179653e2535a3656d2272b3da737f2cd97c406a3557e8a
+Description:  Last Chance Routing module for yate
+
+Package: yate-mod-mgcpca
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 49924
+Filename: yate-mod-mgcpca_5.5.0-1-1_ramips_24kec.ipk
+Size: 50734
+MD5Sum: 287230cddbb13fa43bc008b91b7950e8
+SHA256sum: 6070b26db440d06d0b44e9a191ff23be2feb397113619b26ef0a418bad30a5d6
+Description:  Media Gateway Control Protocol Agent module for yate
+
+Package: yate-mod-mgcpgw
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 33956
+Filename: yate-mod-mgcpgw_5.5.0-1-1_ramips_24kec.ipk
+Size: 34810
+MD5Sum: 63e0cb3cc90e321abb0a3995fae03fdb
+SHA256sum: fcd44ac2cb2495ade912dd3f7be90e273222a550f491daae6dd108115e38faeb
+Description:  Media Gateway Control Protocol Gateway module for yate
+
+Package: yate-mod-moh
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10374
+Filename: yate-mod-moh_5.5.0-1-1_ramips_24kec.ipk
+Size: 11126
+MD5Sum: 44bdeecfdcd0c5b2737e5c6e0b166144
+SHA256sum: 1a12ef55b693204b03274794f6f64684e282b5aaeb250dac639974dbce1589d3
+Description:  On Hold (music) Generator module for yate
+
+Package: yate-mod-monitoring
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 32009
+Filename: yate-mod-monitoring_5.5.0-1-1_ramips_24kec.ipk
+Size: 32513
+MD5Sum: 1e6fa52dd8b5f8b4a36a5e25cf4b9cff
+SHA256sum: 15be881a93c2fa6bf32f0d32d5e48cd11e3b79d753682faba1314c8455bdc4e9
+Description:  Monitoring/gathering Information module for yate
+
+Package: yate-mod-mrcpspeech
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 8494
+Filename: yate-mod-mrcpspeech_5.5.0-1-1_ramips_24kec.ipk
+Size: 9310
+MD5Sum: 3e6412472f066c90a0430525abb7d1ba
+SHA256sum: d937bfe18eee7771f2c6bb3da87306ddfa0015e9a3553dc8c49aa64300fed302
+Description:  MRCP v2 Voice/Tone Detector and Synthesizer module for yate
+
+Package: yate-mod-msgsniff
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6683
+Filename: yate-mod-msgsniff_5.5.0-1-1_ramips_24kec.ipk
+Size: 7475
+MD5Sum: 4a3b9b5b11028d0e208488b2991b3f83
+SHA256sum: 2cdaee880283138022d6ac0bb756b12a335bfbb813bec6f577d1b413366a53aa
+Description:  Sample Message Sniffer module for yate
+
+Package: yate-mod-mux
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12687
+Filename: yate-mod-mux_5.5.0-1-1_ramips_24kec.ipk
+Size: 13462
+MD5Sum: e9ecdca2eac5641b117005265e747144
+SHA256sum: dc2a37c572584feb111e70cf943459bb647b05a005b0a2a14c79afd98a19b518
+Description:  Data Multiplexor module for yate
+
+Package: yate-mod-mysqldb
+Version: 5.5.0-1-1
+Depends: libc, yate, libmysqlclient-r
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12152
+Filename: yate-mod-mysqldb_5.5.0-1-1_ramips_24kec.ipk
+Size: 12930
+MD5Sum: 7e4ffd390b4fd5eab378f076e91a5e87
+SHA256sum: ac188800be1ab5bc6b59a021ffa71f629a9ea40c4b635e79144124b44fd48878
+Description:  MySQL Backend DB module for yate
+
+Package: yate-mod-openssl
+Version: 5.5.0-1-1
+Depends: libc, yate, libopenssl
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12551
+Filename: yate-mod-openssl_5.5.0-1-1_ramips_24kec.ipk
+Size: 13322
+MD5Sum: d6cd0013e2cdbb05278e6c68900e5410
+SHA256sum: 4f706e50804abb01948e5481f9abacc0237fce0e0244fa1060296e59586cbf7a
+Description:  Encrypted transport (OpenSSL) module for yate
+
+Package: yate-mod-osschan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10878
+Filename: yate-mod-osschan_5.5.0-1-1_ramips_24kec.ipk
+Size: 11637
+MD5Sum: 3396200fb4b95c3371072ef3c007320d
+SHA256sum: 3682bd71dd185300d834e2eba3018003605da55ce3dbee19301e1c797f6783fa
+Description:  OSS Sound Channel module for yate
+
+Package: yate-mod-park
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 6273
+Filename: yate-mod-park_5.5.0-1-1_ramips_24kec.ipk
+Size: 7013
+MD5Sum: 0a963877484a5c4f4aa7c0583a6158e1
+SHA256sum: ac33a4cb024794418a777c3f79b13dd6e3d1a51730d64b2bc5a397683ba0fc4a
+Description:  Call Parking module for yate
+
+Package: yate-mod-pbx
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7161
+Filename: yate-mod-pbx_5.5.0-1-1_ramips_24kec.ipk
+Size: 7947
+MD5Sum: d34b54e8b53ed8268e76bd56de44f111
+SHA256sum: b8a595ef5d3d877100a90328922d8d963c5a24a030d341dd102fccec06838493
+Description:  PBX Message Handlers module for yate
+
+Package: yate-mod-pbxassist
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21700
+Filename: yate-mod-pbxassist_5.5.0-1-1_ramips_24kec.ipk
+Size: 22483
+MD5Sum: 162fb87c7b930748646c7eda5b5ccb85
+SHA256sum: 26954ba6b8ed00db26a5bd6552eb23147ff521f28d9e5835bb627450fe645f5c
+Description:  Full featured PBX and IVR module for yate
+
+Package: yate-mod-pgsqldb
+Version: 5.5.0-1-1
+Depends: libc, yate, libpq
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11425
+Filename: yate-mod-pgsqldb_5.5.0-1-1_ramips_24kec.ipk
+Size: 12201
+MD5Sum: b820d51b2d68407c836b0f63ea30c066
+SHA256sum: a3718712a14f68f64ca892df37b2d5b020a1dcc3c36bd659aa2d7eff9cdd71f1
+Description:  PostgrestSQL Backend DB module for yate
+
+Package: yate-mod-presence
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11408
+Filename: yate-mod-presence_5.5.0-1-1_ramips_24kec.ipk
+Size: 12166
+MD5Sum: 8b1005ff60f795c6a5313eef74e5a1a8
+SHA256sum: dc876b986bd410ac19e95087217fdb3bcf817ff610fae10936466c062970b542
+Description:  Presence module for yate
+
+Package: yate-mod-queues
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 12286
+Filename: yate-mod-queues_5.5.0-1-1_ramips_24kec.ipk
+Size: 13072
+MD5Sum: 2e8b6c58246f3487144f20da58d2c22a
+SHA256sum: 99c2c6207c609a2303c0f2ebe1f541c9175bfed56c59b971f7cdc5bc3e323683
+Description:  Call Distribution and Queues from Database module for yate
+
+Package: yate-mod-queuesnotify
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 11582
+Filename: yate-mod-queuesnotify_5.5.0-1-1_ramips_24kec.ipk
+Size: 12360
+MD5Sum: a67dd2d551a939b84dc8ca0b138fe7e2
+SHA256sum: af490401bb43362172aeddb3927c7726a35e47ad3a4870ac0bdcf50f7bce2c0a
+Description:  Notify when queued call status changes module for yate
+
+Package: yate-mod-regexroute
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 19362
+Filename: yate-mod-regexroute_5.5.0-1-1_ramips_24kec.ipk
+Size: 20169
+MD5Sum: 87ea9d823f6c5c69da7c88c2ca9bd8fa
+SHA256sum: 589b5e771d5f2c4464c511fc4be07949f82a7465be30c739b396344aafbd57c9
+Description:  Regular Expression Based Routing module for yate
+
+Package: yate-mod-regfile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10222
+Filename: yate-mod-regfile_5.5.0-1-1_ramips_24kec.ipk
+Size: 10972
+MD5Sum: 67e794a262821ce13c87cba97f4ed09e
+SHA256sum: 2e126abc1a9cd1fecd6eb2e38506f627ba28bc2247212b2ca713b45f51d75043
+Description:  Registration based on users in file module for yate
+
+Package: yate-mod-register
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18451
+Filename: yate-mod-register_5.5.0-1-1_ramips_24kec.ipk
+Size: 19248
+MD5Sum: 2e148345db4a8748646de19cd6f24436
+SHA256sum: 7f8d1b866ee5966c4b21de79e5f9fa31ba37e9081d153a9e010878ae757a2aff
+Description:  Call Detail Record to a database module for yate
+
+Package: yate-mod-rmanager
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 22657
+Filename: yate-mod-rmanager_5.5.0-1-1_ramips_24kec.ipk
+Size: 23384
+MD5Sum: 355dd32a11f9d0ff20ee11b9d6fe373e
+SHA256sum: f2350fad0d7af55aef54429ed7f27ecb2056f2318e5651c41c2c1162bc9622dc
+Description:  Yate Remote Management module for yate
+
+Package: yate-mod-sigtransport
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 20710
+Filename: yate-mod-sigtransport_5.5.0-1-1_ramips_24kec.ipk
+Size: 21454
+MD5Sum: 3cf538d77d973a2d9ef610a67118b05a
+SHA256sum: bd8b103ea1a2a5e29ea61114393dc308e14a62ead2e9562ed7bd25575f9aa7d4
+Description:  SIGTRAN (SS7 over IP) connection provider module for yate
+
+Package: yate-mod-sip_cnam_lnp
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 9853
+Filename: yate-mod-sip_cnam_lnp_5.5.0-1-1_ramips_24kec.ipk
+Size: 10606
+MD5Sum: 617d3ba55dff237d1b1d2b570b9b29ca
+SHA256sum: 1babaa0b911adf37afed007bd5485f25f381e5e269a83ce10ed1001e1ace4b0a
+Description:  Query CNAM and LNP databases using SIP INVITE module for yate
+
+Package: yate-mod-sipfeatures
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10484
+Filename: yate-mod-sipfeatures_5.5.0-1-1_ramips_24kec.ipk
+Size: 11268
+MD5Sum: 80867179b860fa21beb8ef4f9f0c43af
+SHA256sum: 765c0f50d2889a136b52fc437f638663c06ace8686507cf2bb4a53a2f6c173c2
+Description:  SIP Features (SUBSCRIBE/NOTIFY) module for yate
+
+Package: yate-mod-speexcodec
+Version: 5.5.0-1-1
+Depends: libc, yate, libspeex
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 5927
+Filename: yate-mod-speexcodec_5.5.0-1-1_ramips_24kec.ipk
+Size: 6662
+MD5Sum: 0ae907dfa894aa774514d6f466444755
+SHA256sum: 090dec9b0584dd56b1d0c8ab4dfdaacdb1bd25f60f613a2747df523ace1573a2
+Description:  Speex Codec module for yate
+
+Package: yate-mod-subscription
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 26417
+Filename: yate-mod-subscription_5.5.0-1-1_ramips_24kec.ipk
+Size: 27167
+MD5Sum: 2a6c70aa53a074985afb960ef9c5e446
+SHA256sum: f506aceb953b763cc4545dd4ccc88116fc83e07d97685c91b9ec9669a76e0ae4
+Description:  Subcription handler and presence notifier module for yate
+
+Package: yate-mod-tonedetect
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10415
+Filename: yate-mod-tonedetect_5.5.0-1-1_ramips_24kec.ipk
+Size: 11163
+MD5Sum: deea26b6c7a4bde75cc8995b3ce0b908
+SHA256sum: 88e0a37989f3d1fe7f3fd774ea2add21b043614396d5cf33fde52c1a07406e34
+Description:  Detectors for Various Tones module for yate
+
+Package: yate-mod-tonegen
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21182
+Filename: yate-mod-tonegen_5.5.0-1-1_ramips_24kec.ipk
+Size: 21922
+MD5Sum: ea86023b64ca398437c528d0c404a1dd
+SHA256sum: d1f6c244ed1b0f7eb5a8c57250fb2128d8502ebe1f809cbcceaf0d6468e46bdc
+Description:  Tones Generator module for yate
+
+Package: yate-mod-users
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 8613
+Filename: yate-mod-users_5.5.0-1-1_ramips_24kec.ipk
+Size: 9387
+MD5Sum: 4eef943308caa6f17b9d509d2ac8e1c5
+SHA256sum: 3b144bce12e8b4da4322fb4d359edfe299576f9ca4b31860de3d9947bb4db0db
+Description:  Users module for yate
+
+Package: yate-mod-wavefile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 18404
+Filename: yate-mod-wavefile_5.5.0-1-1_ramips_24kec.ipk
+Size: 19175
+MD5Sum: 0a5aa0bc5a0607c40e4df6caa05dee63
+SHA256sum: 04bf2947adfc54f402624e151007137863f90a385c29daafd2732a2abbba694b
+Description:  Wav file Record and Playback module for yate
+
+Package: yate-mod-yiaxchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 78927
+Filename: yate-mod-yiaxchan_5.5.0-1-1_ramips_24kec.ipk
+Size: 79645
+MD5Sum: 41231cd89453a3321d1d5f7ae0a4ee07
+SHA256sum: d1038681a83106262e1968d4d4bee3750c8d7d03bd633d58c4206b675b73717a
+Description:  IAX Channel module for yate
+
+Package: yate-mod-yjinglechan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 51477
+Filename: yate-mod-yjinglechan_5.5.0-1-1_ramips_24kec.ipk
+Size: 52324
+MD5Sum: 6dfd56c969cd90b8192a5f3111000907
+SHA256sum: b258cf1d82befb981a89b07fabdaa89f57f2410c2d474b01593928a9fa304fcc
+Description:  Jingle Channel module for yate
+
+Package: yate-mod-yradius
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 21073
+Filename: yate-mod-yradius_5.5.0-1-1_ramips_24kec.ipk
+Size: 21726
+MD5Sum: 01f9ed67c804f701cd738d7933636f8f
+SHA256sum: 5dbf610ebaa7c42d54cfb0373f23078293ddaaf717294aa81de74ae16464a362
+Description:  RADIUS Client module for yate
+
+Package: yate-mod-yrtpchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 47724
+Filename: yate-mod-yrtpchan_5.5.0-1-1_ramips_24kec.ipk
+Size: 48596
+MD5Sum: c4bfe711b60ccd1972d27b3019a73cf2
+SHA256sum: 66b5abf2de3f42f7b77e5dbc0dd273cfc5727306562834ab4a24f60b980c5ace
+Description:  RTP Channel and Other Data Helper module for yate
+
+Package: yate-mod-ysigchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 61743
+Filename: yate-mod-ysigchan_5.5.0-1-1_ramips_24kec.ipk
+Size: 62378
+MD5Sum: 79f90b38c6645358b19e60a52bd70fed
+SHA256sum: 641baadb4b0095e4beabaee9c41ff256593ae355ef6c6e698acc4718169b0658
+Description:  SS7/ISDN Protocols - Yate Signalling Library module for yate
+
+Package: yate-mod-ysipchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 134513
+Filename: yate-mod-ysipchan_5.5.0-1-1_ramips_24kec.ipk
+Size: 135116
+MD5Sum: 2505398e07f5da9c8b218f078d85590a
+SHA256sum: 31544fd2fc90ff5ad99da7001beca8c80e4eccbe47498638a4856aaeea2169ef
+Description:  SIP Channel module for yate
+
+Package: yate-mod-ysnmpagent
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 63807
+Filename: yate-mod-ysnmpagent_5.5.0-1-1_ramips_24kec.ipk
+Size: 64500
+MD5Sum: b3a467ce505e032099ae13a483bd72c6
+SHA256sum: 77994ce65160ea14d3662022492139fd4fbf7ecc0864bc9a4aa762da22855953
+Description:  SNMP Protocol Agent module for yate
+
+Package: yate-mod-ysockschan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 29629
+Filename: yate-mod-ysockschan_5.5.0-1-1_ramips_24kec.ipk
+Size: 30340
+MD5Sum: a50327ea527f06f142e77c89a669f99d
+SHA256sum: a2c7b4dd0e9f2cf3241ee6741023e27872c0d45a7484c8dc1d70c68ad1ddae65
+Description:  SOCKS Channel module for yate
+
+Package: yate-mod-ystunchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 10985
+Filename: yate-mod-ystunchan_5.5.0-1-1_ramips_24kec.ipk
+Size: 11735
+MD5Sum: cf60783c9f646781dc4506044db11945
+SHA256sum: dc48fea7c3b2d5e522faa417f6849def59afd2831d7ba1b432fe7763371f23f7
+Description:  STUN Support module for yate
+
+Package: yate-mod-zlibcompress
+Version: 5.5.0-1-1
+Depends: libc, yate, zlib
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 7478
+Filename: yate-mod-zlibcompress_5.5.0-1-1_ramips_24kec.ipk
+Size: 8260
+MD5Sum: bdb6e8aed1b2c10ae274646e6311e82a
+SHA256sum: 7266bd1f96e2c357fe9b64c58b1ee0a56900ca8c3454e39a792342c72970cfbd
+Description:  Zlib Compression module for yate
+
+Package: yate-scripts-perl
+Version: 5.5.0-1-1
+Depends: libc, yate, yate-mod-extmodule, perl
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 8594
+Filename: yate-scripts-perl_5.5.0-1-1_ramips_24kec.ipk
+Size: 9366
+MD5Sum: d12c4497ea17911322e9cd2fa8ae1413
+SHA256sum: 2115655c09c41ab5af339aa1effcf1eeae7bb0e9bad50aac82511681153f3d08
+Description:  Perl module for Yate
+
+Package: yate-sounds
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 141112
+Filename: yate-sounds_5.5.0-1-1_ramips_24kec.ipk
+Size: 140065
+MD5Sum: 1434bbd83514eebbce85e1f87b888c23
+SHA256sum: 64b9fdeb02054d2d8c4b62c48878ba4a7133b81d44e60e7145626247ec25ecc5
+Description:  Sounds for Yate
+
+Package: yate
+Version: 5.5.0-1-1
+Depends: libc, libpthread, uclibcxx
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ramips_24kec
+Installed-Size: 966127
+Filename: yate_5.5.0-1-1_ramips_24kec.ipk
+Size: 963779
+MD5Sum: fbe8080fe680fa762a68bb126f9419c7
+SHA256sum: 00747f882763388dc627d3a47e65cf5e598c710cc7073551abb404eb978629f1
+Description:  Yet Another Telephony Engine
+
